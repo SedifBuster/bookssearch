@@ -1,0 +1,26 @@
+.bookItemWrapper {
+    display: flex;
+    margin: 20px;
+}
+
+.bookItemImg {
+    height: 500px;
+}
+
+.bookItemText {
+    margin-left: 30px;
+}
+
+.bookItemAuthors {
+    font-weight: bold;
+}
+
+@media (max-width: 690px) {
+    .bookItemImg {
+        height: 150px;
+    }
+    .bookItemWrapper {
+        display: flex;
+        margin: 5px;
+    }
+}

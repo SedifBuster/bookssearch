@@ -1,0 +1,10 @@
+.booksWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.booksResult {
+    font-size: 24px;
+}

@@ -1,0 +1,16 @@
+.searchForm {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color: #61dafb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.searchCategory {
+    margin-top: 15px;
+    display: flex;
+
+}
